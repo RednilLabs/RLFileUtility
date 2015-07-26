@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RLFileUtility"
         mc:Ignorable="d"
-        Title="{Binding MainWindowTitleText,UpdateSourceTrigger=PropertyChanged}" Height="455" Width="451" 
+        Title="{Binding MainWindowTitleText,UpdateSourceTrigger=PropertyChanged}" Height="454" Width="451" 
         
     >
     <Grid>
